@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Sean Tomlinson. I'm a PhD student reigstered at the Liverpool School of Tropical Medicine and Lancaster University, funded by the MRC on their Doctoral Training Partnership. This site is where I host interactive plots relating to my work to share with colleagues and post information about my work that may be of interest to others. 
+My name is Sean Tomlinson. I'm a PhD student registered at the Liverpool School of Tropical Medicine and Lancaster University, funded by the MRC on their Doctoral Training Partnership. This site is where I host interactive plots relating to my work to share with colleagues and post information about my work that may be of interest to others. 
 
 ### More Information
 
