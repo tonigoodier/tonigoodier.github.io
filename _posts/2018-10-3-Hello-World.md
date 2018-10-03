@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Finally migrated to GitHub hosting and Jekyll
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+For a while now I've had my personal page hosted elsewhere and spent a lot of time fiddling with things to get the pages working as desired. Now, inspried by the effectiveness of Alistair Miles' blog over at http://alimanfoo.github.io/ I have decided to update my site and move it to a git repo. Makes sense now that I have some experience with Git and GitHub from my PhD work.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I intend to use this page for two things: 1. hosting interactive plots that I need to share with colleagues. and 2. Posting occasional blog posts and project updates that others may find interesting and/or useful. 
+
+Watch this space, if interested. 
