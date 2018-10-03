@@ -12,4 +12,4 @@ Please feel free to contact me on the email address listed below.
 
 ### Contact me
 
-[sean.tomlinson@lstmed.ac.uk](mailto:Sean Tomlinson)
+[Contact email](mailto:sean.tomlinson@lstmed.ac.uk)
