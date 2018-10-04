@@ -19,6 +19,6 @@ So, after searching for a long time, I decided on the A8 (a printer which I do n
 
 # Printing in the lab
 
-I had seen that some people on Thingiverse.com had designed custom items for specific needs within their lab, ranging from bespoke Eppendorf tube holders, centrifuge tube adapters, rocker trays, etc. However, I never really thought of suggesting we try and use 3DP in our lab, as I didn't think there was a need for it. 
+I had seen that some people on [Thingiverse](http://thingiverse.com) had designed custom items for specific needs within their lab, ranging from bespoke Eppendorf tube holders, centrifuge tube adapters, rocker trays, etc. However, I never really thought of suggesting we try and use 3DP in our lab, as I didn't think there was a need for it. 
 
 That was until one day, [Dr Arjen Van 'T Hof](https://www.lstmed.ac.uk/about/people) mentioned that he had been looking into 3DP as a method for maximising storage space in the BioBank that the Donnelly lab manages. For some context on this, a typical 10x10 storage box for Eppenddorf boxes are designed designed for 1.5ml tubes. This means that when you have 0.5 ml tubes, although less sample amount is being stored it's consuming more of the physical stoage space. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 10x10 boxes, but which had more appropriate dividers to accomodate more of the smaller tubes. 
