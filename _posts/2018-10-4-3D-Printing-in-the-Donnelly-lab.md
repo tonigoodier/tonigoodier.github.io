@@ -14,6 +14,6 @@ I have spent numerous hours upgrading, tweaking, fixing and generally tinkering 
 where is reliable produces prints analogous to the commercially available and professionally calibrated 3D printers,
 specifically, the Original Prusa i3 MK2 which the A8 is a clone of.
 
-The most common question I get when people find out I have a 3D printer is either *how much did it cost?* or *why do you need a
+The most common question I get when people find out I have a 3D printer is either how much did it cost?* or *why do you need a
 3D printer?*
 
