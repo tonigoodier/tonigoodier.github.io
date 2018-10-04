@@ -33,17 +33,24 @@ Dr Van 'T Hof also mentioned an idea for printing a gel electrophoresis casting 
 
 insert pic here
 
+## Ice Block for SDS-PAGE Tanks
+
+(Dr Lee Haines)[https://www.lstmed.ac.uk/about/people/dr-lee-haines] had heard about the 3DP that was going on and asked whether it could solve the problem of replacing parts no longer availible from the manufacturer or is availible only in limited supply and as a result, unreasonanly priced. The SDS-PAGE system in the lab uses an ice block to keep the buffer cool, whilst the experiment is running. The ice block is an irregularly shaped plastic 'bowl' which is filled with water and put in the freezer. The frozen block is then used for an experiment run and then refrozen. By now, Dr Van 'T Hof is quite adept with CAD and pulled together the 3D model for this part and we got began printing it. The first version was a success (with the exception of the color choice, we later found out)
+
+insert pic here 
+
 ## Miscellaneous Items
 
+Hopefully by now I've convinced you that 3DP has some useful applications in a lab setting when you want to either design a bespoke item or replace parts that are difficult or expensive to acquire. In addtion to these, there are also small, more miscellaneous yet still handy items that have been printed around the lab. Below are some pictures:
 
 
 
 
 
-## Current Project
+## Current 3DP Projects
 
 ### Long Print Porjects 
-At the moment I'm working to complete [AKSHAY_D21's](https://www.thingiverse.com/thing:2948680) 3D printable labroatory rocker. 
+At the moment I'm working to complete [AKSHAY_D21's](https://www.thingiverse.com/thing:2948680) 3D printable labroatory rocker. This is more of a personal project so I can play around with the Arduino framework, with the added benfit that the end product actually has a use. 
 
 ### Design Projects 
-Dr Van 'T hof and myself are working to design .STL models of the WHO Insecticide Susceptibility Bioassay tube systems, to help replace broken parts in the insectaries and keep a many tube kits in operation as possible. This is pushing the limits of my CAD skills, but with the help Dr Van 'T Hof, who has recently figured out thread creation, we should be able to complete this project. 
+Dr Van 'T hof and myself are working to design .STL models of the WHO Insecticide Susceptibility Bioassay tube systems, to help replace broken parts in the insectaries and keep a many tube kits in operation as possible. This is pushing the limits of my CAD skills, but with the help Dr Van 'T Hof, who has recently figured out thread creation, we should be able to complete this project. I intend to write a separate blog post about this in the near future when 
