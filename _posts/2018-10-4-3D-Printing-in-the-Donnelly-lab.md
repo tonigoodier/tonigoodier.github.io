@@ -32,7 +32,7 @@ So, after searching for a long time, I decided on the A8 (a printer which I do n
 I had seen that some people on [Thingiverse](http://thingiverse.com) had designed custom items for specific needs within their lab, ranging from bespoke Eppendorf tube holders, centrifuge tube adapters, rocker trays, etc. However, I never really thought of suggesting we try and use 3DP in our lab, as I didn't think there was a need for it. That was until one day, [Dr Arjen Van 'T Hof](https://www.lstmed.ac.uk/about/people) mentioned that he had been looking into 3DP as a method for maximising storage space in the BioBank that the Donnelly lab manages. After demo-ing my printer for a week, the Donnelly group ordered it's very own printer.
 
 <p align="center">
-  <img src="/images/donnelly-printer.jpg" alt="donnelly-printer"/>
+  <img src="/images/donnelly-printer.JPG" alt="donnelly-printer"/>
 </p>
 
 ## Tube Storage
@@ -46,7 +46,7 @@ insert pic here
 Dr Van 'T Hof also mentioned an idea for printing a gel electrophoresis casting comb that has 1 additional tooth than usual. This is because typical combs have multiples of 8 teeth, meaning that you are unable to do multiple complete rows of 8 (relevant because of PCR tray layout) and have a ladder lane. I initially intended to make my own 3D model for this, but why reinvent the wheel? A quick search on Thingiverse revealed that [Shyam Bhakta](https://www.thingiverse.com/shyambhakta/about) has already designed a parametric version of the electrophoresis gel combs. We customised the design to fit our needs, added a label, and began printing. 
 
 <p align="center">
-  <img src="/images/3dp-gel-comb.jpg" alt="£DP-gel-comb"/>
+  <img src="/images/3dp-gel-comb.jpg" alt="3DP-gel-comb"/>
 </p>
 
 ## Ice Block for SDS-PAGE Tanks
