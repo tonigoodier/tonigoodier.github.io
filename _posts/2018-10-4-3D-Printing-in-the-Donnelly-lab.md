@@ -35,11 +35,14 @@ I had seen that some people on [Thingiverse](http://thingiverse.com) had designe
   <img src="/images/donnelly-printer.JPG" alt="donnelly-printer"/>
 </p>
 
-## Tube Storage
+# Tube Storage
 
+## -80oC BioBank Tube Storage
 For some context on this, a typical 10x10 storage box for Eppendorf boxes are designed for 1.5ml tubes. This means that when you have 0.5 ml tubes stored in these boxes, they are more difficult to remove and liable to being bounced from their place and could cause tube mix-up. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 10x10 boxes, but which had more appropriate dividers to accommodate the smaller tubes. After some tweaking and experimenting, Dr Van 'T Hof had designed the model for the tube box and printing them to fulfil the BioBanks storage needs.
 
 insert pic here
+
+## -20oC Pre-PCR Primer Tube Storage
 
 Additionally, aliquots of qPCR primers which need to be stored in separate boxes, quickly fill freezer space in the PCR-prep room. At ony one time, a primer pair has ~15 aliiquots, so we design a set of boxes to efficiently hold those 15 tubes, to maximise the freezer storage space. We also added uniwue labels to both parts of the box to prevent mix up between sample boxes. 
 
