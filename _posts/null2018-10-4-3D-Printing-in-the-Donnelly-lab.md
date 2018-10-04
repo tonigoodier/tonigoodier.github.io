@@ -45,7 +45,11 @@ insert pic here
 
 ## Miscellaneous Items
 
-Hopefully by now I've convinced you that 3DP has some useful applications in a lab setting when you want to either design a bespoke item or replace parts that are difficult or expensive to acquire. In addtion to these, there are also small, more miscellaneous yet still handy items that have been printed around the lab. Below are some pictures:
+Hopefully by now I've convinced you that 3DP has some useful applications in a lab setting when you want to either design a bespoke item or replace parts that are difficult or expensive to acquire. In addtion to these, there are also small, more miscellaneous yet still handy items that have been printed around the lab. Below are some pictures.
+
+### Small Parts Stoage in a 50ml tube
+
+Design by [Namehere](https://www.thingiverse.com/)
 
 <p align="center">
   <img src="/images/3dp-part-storage-open.jpg" alt="£DP-gel-comb"/>
