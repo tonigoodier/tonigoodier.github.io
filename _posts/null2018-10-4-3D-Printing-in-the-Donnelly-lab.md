@@ -37,11 +37,6 @@ Dr Van 'T Hof also mentioned an idea for printing a gel electrophoresis casting 
   <img src="/images/3dp-gel-comb.jpg" alt="£DP-gel-comb"/>
 </p>
 
-
-![3DP-gel-comb](/images/3dp-gel-comb.jpg)
-
-
-
 ## Ice Block for SDS-PAGE Tanks
 
 [Dr Lee Haines](https://www.lstmed.ac.uk/about/people/dr-lee-haines) had heard about the 3DP that was going on and asked whether it could solve the problem of replacing parts no longer availible from the manufacturer or is availible only in limited supply and as a result, unreasonanly priced. The SDS-PAGE system in the lab uses an ice block to keep the buffer cool, whilst the experiment is running. The ice block is an irregularly shaped plastic 'bowl' which is filled with water and put in the freezer. The frozen block is then used for an experiment run and then refrozen. By now, Dr Van 'T Hof is quite adept with CAD and pulled together the 3D model for this part and we got began printing it. The first version was a success (with the exception of the color choice, we later found out)
