@@ -5,6 +5,8 @@ title: 3D Printing in the Donnelly lab
 
 How useful can 3D printing be in a lab setting? Here's what I've found
 
+# 3D Printing?
+
 I first started off with 3D printing (3DP) a few years ago with the Anet A8 (A8). The A8 cheap build-it-yourself type kit, which does the job of 3D printing objects, albeit not at the greatest resolution straight out of the box. 
 
 I have spent numerous hours upgrading, tweaking, fixing and generally tinkering with the A8 and now have it in a condition where is reliable produces prints analogous to the commercially available and professionally calibrated 3D printers, specifically, the Original Prusa i3 MK2 which the A8 is a clone of.
@@ -19,11 +21,11 @@ So, after searching for a long time, I decided on the A8 (a printer which I do n
 
 # Printing in the lab
 
-I had seen that some people on [Thingiverse](http://thingiverse.com) had designed custom items for specific needs within their lab, ranging from bespoke Eppendorf tube holders, centrifuge tube adapters, rocker trays, etc. However, I never really thought of suggesting we try and use 3DP in our lab, as I didn't think there was a need for it. 
+I had seen that some people on [Thingiverse](http://thingiverse.com) had designed custom items for specific needs within their lab, ranging from bespoke Eppendorf tube holders, centrifuge tube adapters, rocker trays, etc. However, I never really thought of suggesting we try and use 3DP in our lab, as I didn't think there was a need for it. That was until one day, [Dr Arjen Van 'T Hof](https://www.lstmed.ac.uk/about/people) mentioned that he had been looking into 3DP as a method for maximising storage space in the BioBank that the Donnelly lab manages.
 
 ## Tube Storage
 
-That was until one day, [Dr Arjen Van 'T Hof](https://www.lstmed.ac.uk/about/people) mentioned that he had been looking into 3DP as a method for maximising storage space in the BioBank that the Donnelly lab manages. For some context on this, a typical 10x10 storage box for Eppenddorf boxes are designed designed for 1.5ml tubes. This means that when you have 0.5 ml tubes stored in these boxes, they are more difficult to remove and liable to being bounced from their place and could cause tube mixup. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 10x10 boxes, but which had more appropriate dividers to accomodate the smaller tubes. After some tweaking and exprimenting, Dr Van 'T Hof had designed the model for the tube box and printing them to fulfill the BioBanks storage needs.
+For some context on this, a typical 10x10 storage box for Eppenddorf boxes are designed designed for 1.5ml tubes. This means that when you have 0.5 ml tubes stored in these boxes, they are more difficult to remove and liable to being bounced from their place and could cause tube mixup. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 10x10 boxes, but which had more appropriate dividers to accomodate the smaller tubes. After some tweaking and exprimenting, Dr Van 'T Hof had designed the model for the tube box and printing them to fulfill the BioBanks storage needs.
 
 insert pic here
 
@@ -42,10 +44,6 @@ insert pic here
 ## Miscellaneous Items
 
 Hopefully by now I've convinced you that 3DP has some useful applications in a lab setting when you want to either design a bespoke item or replace parts that are difficult or expensive to acquire. In addtion to these, there are also small, more miscellaneous yet still handy items that have been printed around the lab. Below are some pictures:
-
-
-
-
 
 ## Current 3DP Projects
 
