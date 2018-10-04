@@ -47,6 +47,12 @@ insert pic here
 
 Hopefully by now I've convinced you that 3DP has some useful applications in a lab setting when you want to either design a bespoke item or replace parts that are difficult or expensive to acquire. In addtion to these, there are also small, more miscellaneous yet still handy items that have been printed around the lab. Below are some pictures:
 
+<p align="center">
+  <img src="/images/3dp-part-storage-open.jpg" alt="£DP-gel-comb"/>
+</p>
+
+
+
 ## Current 3DP Projects
 
 ### Long Print Porjects 
