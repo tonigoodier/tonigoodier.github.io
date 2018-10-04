@@ -21,4 +21,29 @@ So, after searching for a long time, I decided on the A8 (a printer which I do n
 
 I had seen that some people on [Thingiverse](http://thingiverse.com) had designed custom items for specific needs within their lab, ranging from bespoke Eppendorf tube holders, centrifuge tube adapters, rocker trays, etc. However, I never really thought of suggesting we try and use 3DP in our lab, as I didn't think there was a need for it. 
 
-That was until one day, [Dr Arjen Van 'T Hof](https://www.lstmed.ac.uk/about/people) mentioned that he had been looking into 3DP as a method for maximising storage space in the BioBank that the Donnelly lab manages. For some context on this, a typical 10x10 storage box for Eppenddorf boxes are designed designed for 1.5ml tubes. This means that when you have 0.5 ml tubes, although less sample amount is being stored it's consuming more of the physical stoage space. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 10x10 boxes, but which had more appropriate dividers to accomodate more of the smaller tubes. 
+## Tube Storage
+
+That was until one day, [Dr Arjen Van 'T Hof](https://www.lstmed.ac.uk/about/people) mentioned that he had been looking into 3DP as a method for maximising storage space in the BioBank that the Donnelly lab manages. For some context on this, a typical 10x10 storage box for Eppenddorf boxes are designed designed for 1.5ml tubes. This means that when you have 0.5 ml tubes stored in these boxes, they are more difficult to remove and liable to being bounced from their place and could cause tube mixup. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 10x10 boxes, but which had more appropriate dividers to accomodate the smaller tubes. After some tweaking and exprimenting, Dr Van 'T Hof had designed the model for the tube box and printing them to fulfill the BioBanks storage needs.
+
+insert pic here
+
+## Gel Combs
+
+Dr Van 'T Hof also mentioned an idea for printing a gel electrophoresis casting comb that has 1 additonal teeth than usual. This is because typical combs have multiples of 8 teeth, meaning that you are unable to do multiple cimpllete rows of 8 (relelvent because of PCR tray layout) and have a ladder lane. I initially intended to make my own 3D model for this, but why reinvent the wheel? A quick search on Thingiverse revealed that [Shyam Bhakta](https://www.thingiverse.com/shyambhakta/about) has already design a parametric version of the electrophoresis gel combs. We customised the design to fit our needs, added a label, and began printing. 
+
+insert pic here
+
+## Miscellaneous Items
+
+
+
+
+
+
+## Current Project
+
+### Long Print Porjects 
+At the moment I'm working to complete [AKSHAY_D21's](https://www.thingiverse.com/thing:2948680) 3D printable labroatory rocker. 
+
+### Design Projects 
+Dr Van 'T hof and myself are working to design .STL models of the WHO Insecticide Susceptibility Bioassay tube systems, to help replace broken parts in the insectaries and keep a many tube kits in operation as possible. This is pushing the limits of my CAD skills, but with the help Dr Van 'T Hof, who has recently figured out thread creation, we should be able to complete this project. 
