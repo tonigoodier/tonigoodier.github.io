@@ -34,7 +34,7 @@ insert pic here
 Dr Van 'T Hof also mentioned an idea for printing a gel electrophoresis casting comb that has 1 additonal teeth than usual. This is because typical combs have multiples of 8 teeth, meaning that you are unable to do multiple cimpllete rows of 8 (relelvent because of PCR tray layout) and have a ladder lane. I initially intended to make my own 3D model for this, but why reinvent the wheel? A quick search on Thingiverse revealed that [Shyam Bhakta](https://www.thingiverse.com/shyambhakta/about) has already design a parametric version of the electrophoresis gel combs. We customised the design to fit our needs, added a label, and began printing. 
 
 <p align="center">
-  <img src="/images3dp-gel-comb.jpg?raw=true" alt="3DP-gel-comb"/>
+  <img src="/images3dp-gel-comb.jpg" alt="3DP-gel-comb"/>
 </p>
 
 
