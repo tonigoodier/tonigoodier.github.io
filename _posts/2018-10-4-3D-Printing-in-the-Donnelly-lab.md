@@ -16,6 +16,7 @@ I have spent numerous hours upgrading, tweaking, fixing and generally tinkering 
 <p align="center">
   <img src="/images/prusa-a8.jpg" alt="prusa-a8"/>
 </p>
+
 **Left:** Prusa MK2. **Right:** Anet A8.
 
 The most common question I get when people find out I have a 3D printer is either **how much did it cost?** or **what do you use 3DP for?**
