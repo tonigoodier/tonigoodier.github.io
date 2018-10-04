@@ -13,6 +13,11 @@ I first started off with 3D printing (3DP) a few years ago with the Anet A8 (A8)
 
 I have spent numerous hours upgrading, tweaking, fixing and generally tinkering with the A8 and now have it in a condition where is reliable produces prints analogous to the commercially available and professionally calibrated 3D printers, specifically, the Original Prusa i3 MK2 which the A8 is a clone of.
 
+<p align="center">
+  <img src="/images/prusa-a8.jpg" alt="prusa-a8"/>
+</p>
+**Left:** Prusa MK2. **Right:** Anet A8.
+
 The most common question I get when people find out I have a 3D printer is either **how much did it cost?** or **what do you use 3DP for?**
 
 To answer the **how much?** question I'm digging deep to remember, but it was roughly ~£120, and now checking GearBest.com the current price (on 04/10/2018) is £108, so £120 seems about right. 
