@@ -12,6 +12,9 @@ This site is a work in progress, please do message me if you spot an error/mista
 
 My PhD topic is focussing on identifying genetic introgression between malaria mosquitoes, in the context of insecticide resistance. Specifically, I am working *Anopheles gambiae* 1000 genome consortium members to analyse the third phase of genetic data which includes sympatric populations of *An. arabiensis* and *An. gambiae*. I'm also working with members of the Malaria Atlas Project to develop models which explain the temporal and spatial structures underlying resistance phenotype data.
 
+[My Orchid ID](https://orcid.org/0000-0002-0735-2741) 
+[My ResearchGate](https://www.researchgate.net/profile/Sean_Tomlinson3)
+
 In addition to my academic projects, I'm a 3D printing (3DP) enthusiast and keen to explore areas in which 3DP can be utilised in solving laboratory issues. 
 
 ### Contact me
