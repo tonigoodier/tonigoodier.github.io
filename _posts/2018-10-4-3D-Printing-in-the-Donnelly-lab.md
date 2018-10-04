@@ -42,6 +42,8 @@ For some context on this, a typical 10x10 storage box for Eppendorf boxes are de
 
 insert pic here
 
+O(n<sup>2</sup>)
+
 ## -20oC Pre-PCR Primer Tube Storage
 
 Additionally, aliquots of qPCR primers which need to be stored in separate boxes, quickly fill freezer space in the PCR-prep room. At ony one time, a primer pair has ~15 aliiquots, so we design a set of boxes to efficiently hold those 15 tubes, to maximise the freezer storage space. We also added uniwue labels to both parts of the box to prevent mix up between sample boxes. 
