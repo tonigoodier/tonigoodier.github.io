@@ -41,6 +41,12 @@ For some context on this, a typical 10x10 storage box for Eppendorf boxes are de
 
 insert pic here
 
+Additionally, aliquots of qPCR primers which need to be stored in separate boxes, quickly fill freezer space in the PCR-prep room. At ony one time, a primer pair has ~15 aliiquots, so we design a set of boxes to efficiently hold those 15 tubes, to maximise the freezer storage space. We also added uniwue labels to both parts of the box to prevent mix up between sample boxes. 
+
+<p align="center">
+  <img src="/images/pcr-tube-box.jpg" alt="smaller-tube-boxes"/>
+</p>
+
 ## Gel Combs
 
 Dr Van 'T Hof also mentioned an idea for printing a gel electrophoresis casting comb that has 1 additional tooth than usual. This is because typical combs have multiples of 8 teeth, meaning that you are unable to do multiple complete rows of 8 (relevant because of PCR tray layout) and have a ladder lane. I initially intended to make my own 3D model for this, but why reinvent the wheel? A quick search on Thingiverse revealed that [Shyam Bhakta](https://www.thingiverse.com/shyambhakta/about) has already designed a parametric version of the electrophoresis gel combs. We customised the design to fit our needs, added a label, and began printing. 
@@ -66,6 +72,10 @@ Design by [Namehere](https://www.thingiverse.com/)
 <p align="center">
   <img src="/images/3dp-part-storage-open.jpg" alt="£DP-gel-comb"/>
 </p>
+
+### Scalpel Handle
+
+### Micropestle Wash Bucket
 
 ## Current 3DP Projects
 
