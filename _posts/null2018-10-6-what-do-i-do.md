@@ -3,14 +3,13 @@ layout: post
 title: What do I do?
 ---
 
-
-Scope
+# Scope
 
 I thought it'd be a good idea to give an overview of my PhD project, and go into a little bit of detail about the background and importance of the work.
 
 Public engagement is crucial part of the scientific process, and so this blog post will be aimed at a broader audience and written in plain English, to be as inclusive and accessible as possible.
 
-Intro
+# Intro
 
 Malaria is a disease, caused by the Plasmodium family of parasites and transmitted by mosquitoes belonging to the Anopheles genus. It causes debilitating symptoms, which include fever, vomiting, headaches, etc. and in serious cases can result in jaundice, seizures and death.
 
@@ -30,7 +29,7 @@ Despite the great success in reducing its burden, malaria still claims roughly 5
 
 My work is within the lab of Professor Martin Donnelly, where the key focus is understanding the genetic components of resistance to insect ices. Understanding the genetic mutations, signature of evolution and the fitness of resistance mosquitoes all help to inform vector control monitoring, tool development and intervention deployment. 
 
-The malaria mosquitoes
+# The Malaria Mosquitoes
 
 There exist a number of mosquitoes that are capable of transmitting malaria, some only to humans, some only to animal and some to both. My work focusses on two major mosquito species call Anopheles gambiae s.s. and Anopheles arabiensis.
 
