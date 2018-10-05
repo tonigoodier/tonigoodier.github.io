@@ -39,7 +39,7 @@ The Donnelly lab 3D pirnter.
 # Tube Storage
 
 ## -80&deg;C BioBank Tube Storage
-For some context on this, a typical 9x9 storage box for Eppendorf boxes are designed for 1.5ml tubes. This means that when you have 0.5 ml tubes stored in these boxes, they are more difficult to remove and liable to being bounced from their place and could cause tube mix-up. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 9x9 boxes, but which had more appropriate dividers to accommodate the smaller tubes, and an extra interal space, making it a 10x10 box for 0.5ml tubes. After some tweaking and experimenting, Dr Van 'T Hof had designed the model for the tube box and began printing them to fulfil the BioBank's storage needs.
+For some context on this, a typical 9x9 storage box for Eppendorf boxes are designed for 1.5ml tubes. This means that when you have 0.5 ml tubes stored in these boxes, they are more difficult to remove and liable to being bounced from their place and could cause tube mix-up. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 9x9 boxes, but which had more appropriate dividers to accommodate the smaller tubes, and an extra internal space, making it a 10x10 box for 0.5ml tubes. After some tweaking and experimenting, Dr Van 'T Hof had designed the model for the tube box and began printing them to fulfil the BioBank's storage needs.
 
 <p align="center">
   <img src="/images/minus80-box.JPG" alt="minus80-box"/>
@@ -47,7 +47,7 @@ For some context on this, a typical 9x9 storage box for Eppendorf boxes are desi
 
 ## -20&deg;C Pre-PCR Primer Tube Storage
 
-Additionally, aliquots of qPCR primers which need to be stored in separate boxes, quickly fill freezer space in the PCR-prep room. At ony one time, a primer pair has ~15 aliiquots, so we design a set of boxes to efficiently hold those 15 tubes, to maximise the freezer storage space. We also added uniwue labels to both parts of the box to prevent mix up between sample boxes. 
+Additionally, aliquots of qPCR primers which need to be stored in separate boxes, quickly fill freezer space in the PCR-prep room. At any one time, a primer pair has ~15 aliquots, so we design a set of boxes to efficiently hold those 15 tubes, to maximise the freezer storage space. We also added unique labels to both parts of the box to prevent mix up between sample boxes. 
 
 <p align="center">
   <img src="/images/pcr-tube-box.jpg" alt="smaller-tube-boxes"/>
@@ -105,4 +105,4 @@ At the moment I'm working to complete [AKSHAY_D21's](https://www.thingiverse.com
 Dr Van 'T hof and I are working to design .STL models of the WHO Insecticide Susceptibility Bioassay tube systems, to help replace broken parts in the insectaries and keep as many tube kits in operation as possible. This is pushing the limits of my CAD skills, but with the help Dr Van 'T Hof, who has recently figured out thread creation, we should be able to complete this project. I intend to write a separate blog post about this in the near future when 
 
 # Have An Idea for a Print?
-If you an LSTM colleage and have an idea for a print that could help out around the lab/office, please [get in touch](mailto:sean.tomlinson@lstmed.ac.uk). 
+If you an LSTM colleague and have an idea for a print that could help out around the lab/office, please [get in touch](mailto:sean.tomlinson@lstmed.ac.uk). 
