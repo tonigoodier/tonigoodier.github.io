@@ -27,7 +27,7 @@ So, after searching for a long time, I decided on the A8 (a printer which I do n
 
 # Printing in the lab
 
-I had seen that some people on [Thingiverse](http://thingiverse.com) had designed custom items for specific needs within their lab, ranging from bespoke Eppendorf tube holders, centrifuge tube adapters, rocker trays, etc. However, I never really thought of suggesting we try and use 3DP in our lab, as I didn't think there was a need for it. That was until [Dr Arjen Van 'T Hof](https://www.lstmed.ac.uk/about/people) mentioned that he had been looking into 3DP as a method for maximising storage space in the BioBank that the Donnelly lab manages. After demo-ing my printer for a week in the lab, the Donnelly group ordered it's very own printer.
+I had seen that some people on [Thingiverse](http://thingiverse.com) had designed custom items for specific needs within their lab, ranging from bespoke Eppendorf tube holders, centrifuge tube adapters, rocker trays, etc. However, I never really thought of suggesting we try and use 3DP in our lab, as I didn't think there was a need for it. That was until [Dr Arjen Van 'T Hof](https://www.lstmed.ac.uk/about/people) mentioned that he had been looking into 3DP as a method for maximising storage space in the BioBank that the Donnelly lab manages. After demo-ing my printer for a week in the lab, the Donnelly group ordered its very own printer.
 
 <p align="center">
   <img src="/images/donnelly-3dp.JPG" alt="donnelly-printer"/>
@@ -100,7 +100,7 @@ Original design by [dhulihan](https://www.thingiverse.com/dhulihan/about), and r
 At the moment I'm working to complete [AKSHAY_D21's](https://www.thingiverse.com/thing:2948680) 3D printable laboratory rocker. This is more of a personal project so I can play around with the Arduino framework, with the added benefit that the end product actually has a use. 
 
 ### Design Projects 
-Dr Van 'T hof and I are working to design .STL models of the WHO Insecticide Susceptibility Bioassay tube systems, to help replace broken parts in the insectaries and keep as many tube kits as possible in operation. This is pushing the limits of my CAD skills, but with the help Dr Van 'T Hof, who has recently figured out thread creation, we should be able to complete this project. I intend to write a separate blog post about this in the near future when we have substantial progress.
+Dr Van 'T hof and I are working to design .STL models of the WHO Insecticide Susceptibility Bioassay tube systems, to help replace broken parts in the insectaries and keep as many tube kits as possible in operation. This is pushing the limits of my CAD skills, but with the help of Dr Van 'T Hof, who has recently figured out thread creation, we should be able to complete this project. I intend to write a separate blog post about this in the near future when we have substantial progress.
 
 # Have An Idea for a Print?
 If you're an LSTM colleague and have an idea for a print that could help out around the lab/office, please [get in touch](mailto:sean.tomlinson@lstmed.ac.uk). 
