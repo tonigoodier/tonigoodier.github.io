@@ -32,7 +32,7 @@ I had seen that some people on [Thingiverse](http://thingiverse.com) had designe
 <p align="center">
   <img src="/images/donnelly-3dp.JPG" alt="donnelly-printer"/>
 </p>
-The Donnelly lab 3D pirnter.
+The Donnelly lab 3D printer.
 
 # Tube Storage
 
