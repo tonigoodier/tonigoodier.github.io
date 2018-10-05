@@ -9,7 +9,7 @@ How useful can 3D printing be in a lab setting? Here's what I've found
 
 # 3D Printing?
 
-I first started off with 3D printing (3DP) a few years ago with the Anet A8 (A8). The A8 cheap build-it-yourself type kit, which does the job of 3D printing objects, albeit not at the greatest resolution straight out of the box. 
+I first started off with 3D printing (3DP) a few years ago with the Anet A8 (A8). The A8 is a cheap build-it-yourself type kit, which does the job of 3D printing objects, albeit not at the greatest resolution straight out of the box. 
 
 I have spent numerous hours upgrading, tweaking, fixing and generally tinkering with the A8 and now have it in a condition where is reliable produces prints analogous to the commercially available and professionally calibrated 3D printers, specifically, the Original Prusa i3 MK2 which the A8 is a clone of.
 
@@ -23,9 +23,9 @@ The most common question I get when people find out I have a 3D printer is eithe
 
 To answer the **how much?** question I'm digging deep to remember, but it was roughly ~£120, and now checking GearBest.com the current price (on 04/10/2018) is £108, so £120 seems about right. 
 
-The **why** question is a bit trickier to directly answer. But generally, I enjoy tinkering with things and building things that I need and 3DP is a great technology for getting very specific, precise and intricate parts for a built project. I had found myself saying **I could 3D print that** long before deciding to buy one. But, the final time was when I was putting my tool wall back together after moving, and deciding that printing dedicated tool holders would extremely useful for organising small parts and hand tools. 
+The **why** question is a bit trickier to directly answer. But generally, I enjoy tinkering with things and building things that I need, and 3DP is a great technology for getting very specific, precise and intricate parts for a build project. I had found myself saying **I could 3D print that** long before deciding to buy one. But, the final time was when I was putting my tool wall back together after moving, and deciding that printing dedicated tool holders would extremely useful for organising small parts and hand tools. 
 
-So, after searching for a long time, I decided on the A8 (a printer which I do not recommend buying, for what it's worth), I ordered it, it arrived, I assembled it and began printing. Now, after _many_ hours of print-time, repair-time, upgrading-time,  and finding tiny screws that I dropped onto carpet time, I'm starting to explore more complex areas of 3DP technologies. 
+So, after searching for a long time, I decided on the A8 (a printer which I do not recommend buying, for what it's worth), I ordered it, it arrived, I assembled it and began printing. Now, after _many_ hours of print-time, repair-time, upgrading-time, and finding-tiny-screws-that-I-dropped-onto-the-carpet-time, I'm starting to explore more complex areas of 3DP technologies. 
 
 # Printing in the lab
 
@@ -34,15 +34,16 @@ I had seen that some people on [Thingiverse](http://thingiverse.com) had designe
 <p align="center">
   <img src="/images/donnelly-printer.JPG" alt="donnelly-printer"/>
 </p>
+The Donnelly lab 3D pirnter.
 
 # Tube Storage
 
-## -80<sup>o</sup>C BioBank Tube Storage
-For some context on this, a typical 10x10 storage box for Eppendorf boxes are designed for 1.5ml tubes. This means that when you have 0.5 ml tubes stored in these boxes, they are more difficult to remove and liable to being bounced from their place and could cause tube mix-up. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 10x10 boxes, but which had more appropriate dividers to accommodate the smaller tubes. After some tweaking and experimenting, Dr Van 'T Hof had designed the model for the tube box and printing them to fulfil the BioBanks storage needs.
+## -80 BioBank Tube Storage
+For some context on this, a typical 9x9 storage box for Eppendorf boxes are designed for 1.5ml tubes. This means that when you have 0.5 ml tubes stored in these boxes, they are more difficult to remove and liable to being bounced from their place and could cause tube mix-up. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 9x9 boxes, but which had more appropriate dividers to accommodate the smaller tubes, and an extra interal space, making it a 10x10 box for 0.5ml tubes. After some tweaking and experimenting, Dr Van 'T Hof had designed the model for the tube box and began printing them to fulfil the BioBank's storage needs.
 
 insert pic here
 
-## -20<sup>o</sup>C Pre-PCR Primer Tube Storage
+## -20 Pre-PCR Primer Tube Storage
 
 Additionally, aliquots of qPCR primers which need to be stored in separate boxes, quickly fill freezer space in the PCR-prep room. At ony one time, a primer pair has ~15 aliiquots, so we design a set of boxes to efficiently hold those 15 tubes, to maximise the freezer storage space. We also added uniwue labels to both parts of the box to prevent mix up between sample boxes. 
 
@@ -78,7 +79,7 @@ Design by [Namehere](https://www.thingiverse.com/)
 
 ### Scalpel Handle
 
-### Micropestle Wash Bucket
+### Tube holder for DNA Extraction
 
 ## Current 3DP Projects
 
