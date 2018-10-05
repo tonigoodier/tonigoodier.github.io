@@ -5,7 +5,7 @@ title: 3D Printing in the Donnelly lab
 
 How useful can 3D printing be in a lab setting? Here's what I've found
 
-# This is very much still a draft. If you're looking at this and I haven't sent you the link, please ignore errors. If I have sent you the link, and this sentence is here, it's becuase I'm asking you to proof it, Toni :)
+# This is very much still a draft.
 
 # 3D Printing?
 
