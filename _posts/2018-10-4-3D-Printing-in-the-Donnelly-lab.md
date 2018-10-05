@@ -32,7 +32,7 @@ So, after searching for a long time, I decided on the A8 (a printer which I do n
 I had seen that some people on [Thingiverse](http://thingiverse.com) had designed custom items for specific needs within their lab, ranging from bespoke Eppendorf tube holders, centrifuge tube adapters, rocker trays, etc. However, I never really thought of suggesting we try and use 3DP in our lab, as I didn't think there was a need for it. That was until one day, [Dr Arjen Van 'T Hof](https://www.lstmed.ac.uk/about/people) mentioned that he had been looking into 3DP as a method for maximising storage space in the BioBank that the Donnelly lab manages. After demo-ing my printer for a week, the Donnelly group ordered it's very own printer.
 
 <p align="center">
-  <img src="/images/donnelly-printer.JPG" alt="donnelly-printer"/>
+  <img src="/images/donnelly-3dp.JPG" alt="donnelly-printer"/>
 </p>
 The Donnelly lab 3D pirnter.
 
@@ -41,7 +41,9 @@ The Donnelly lab 3D pirnter.
 ## -80&deg;C BioBank Tube Storage
 For some context on this, a typical 9x9 storage box for Eppendorf boxes are designed for 1.5ml tubes. This means that when you have 0.5 ml tubes stored in these boxes, they are more difficult to remove and liable to being bounced from their place and could cause tube mix-up. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 9x9 boxes, but which had more appropriate dividers to accommodate the smaller tubes, and an extra interal space, making it a 10x10 box for 0.5ml tubes. After some tweaking and experimenting, Dr Van 'T Hof had designed the model for the tube box and began printing them to fulfil the BioBank's storage needs.
 
-insert pic here
+<p align="center">
+  <img src="/images/minus80-box.JPG" alt="minus80-box"/>
+</p>
 
 ## -20&deg;C Pre-PCR Primer Tube Storage
 
@@ -63,7 +65,9 @@ Dr Van 'T Hof also mentioned an idea for printing a gel electrophoresis casting 
 
 [Dr Lee Haines](https://www.lstmed.ac.uk/about/people/dr-lee-haines) had heard about the 3DP that was going on and asked whether it could solve the problem of replacing parts no longer available from the manufacturer or is available only in limited supply and as a result, unreasonably priced. The SDS-PAGE system in the lab uses an ice block to keep the buffer cool, whilst the experiment is running. The ice block is an irregularly shaped plastic 'bowl' which is filled with water and put in the freezer. The frozen block is then used for an experiment run and then refrozen. By now, Dr Van 'T Hof is quite adept with CAD and pulled together the 3D model for this part and we got began printing it. The first version was a success (with the exception of the colour choice, we later found out)
 
-insert pic here 
+<p align="center">
+  <img src="/images/gel-tank-ice-packs.JPG" alt="sgds-page-ice-blocks"/>
+</p>
 
 ## Miscellaneous Items
 
@@ -77,9 +81,20 @@ Design by [Namehere](https://www.thingiverse.com/)
   <img src="/images/3dp-part-storage-open.jpg" alt="£DP-gel-comb"/>
 </p>
 
-### Scalpel Handle
-
 ### Tube holder for DNA Extraction
+<p align="center">
+  <img src="/images/peg-merge.jpg" alt="peg-tube-holder"/>
+</p>
+
+### Multichannel Pipette Holder
+<p align="center">
+  <img src="/images/pipette-holder-merge.jpg" alt="multichannel-pipette-holder"/>
+</p>
+
+### Micropestle Wash Bucket
+<p align="center">
+  <img src="/images/pestle-merge.jpg" alt="micropestle-wash-bucket"/>
+</p>
 
 ## Current 3DP Projects
 
