@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Printing in the Donnelly lab
+title: 3D Printing in the Donnelly Lab
 ---
 
 How useful can 3D printing be in a lab setting? Here's what I've found
