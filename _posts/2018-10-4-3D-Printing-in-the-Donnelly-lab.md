@@ -38,7 +38,7 @@ The Donnelly lab 3D pirnter.
 
 # Tube Storage
 
-## -80 BioBank Tube Storage
+## -80&deg; BioBank Tube Storage
 For some context on this, a typical 9x9 storage box for Eppendorf boxes are designed for 1.5ml tubes. This means that when you have 0.5 ml tubes stored in these boxes, they are more difficult to remove and liable to being bounced from their place and could cause tube mix-up. Dr Van 'T Hof had the idea of design custom tube storage boxes that still retained the outer format of the traditional 9x9 boxes, but which had more appropriate dividers to accommodate the smaller tubes, and an extra interal space, making it a 10x10 box for 0.5ml tubes. After some tweaking and experimenting, Dr Van 'T Hof had designed the model for the tube box and began printing them to fulfil the BioBank's storage needs.
 
 insert pic here
