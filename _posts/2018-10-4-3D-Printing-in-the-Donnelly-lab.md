@@ -75,7 +75,7 @@ Hopefully, by now I've convinced you that 3DP has some useful applications in a 
 
 ### Small Parts Storage in a 50ml tube
 
-Design by [Namehere](https://www.thingiverse.com/)
+Original design by [dhulihan](https://www.thingiverse.com/dhulihan/about), and refined by [amandasubic](https://www.thingiverse.com/amandasubic/about).
 
 <p align="center">
   <img src="/images/3dp-part-storage-open.jpg" alt="£DP-gel-comb"/>
