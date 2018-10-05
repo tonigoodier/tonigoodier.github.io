@@ -106,4 +106,4 @@ Dr Van 'T hof and I are working to design .STL models of the WHO Insecticide Sus
 If you an LSTM colleague and have an idea for a print that could help out around the lab/office, please [get in touch](mailto:sean.tomlinson@lstmed.ac.uk). 
 
 # Feedback
-Please feel free to leave feedback on the blog post either below using Discus or through my email above. 
+Please feel free to leave feedback on the blog post, either with Discus below or my email above.
