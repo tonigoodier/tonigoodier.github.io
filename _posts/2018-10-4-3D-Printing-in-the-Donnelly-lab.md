@@ -5,8 +5,6 @@ title: 3D Printing in the Donnelly lab
 
 How useful can 3D printing be in a lab setting? Here's what I've found
 
-# This is very much still a draft.
-
 # 3D Printing?
 
 I first started off with 3D printing (3DP) a few years ago with the Anet A8 (A8). The A8 is a cheap build-it-yourself type kit, which does the job of 3D printing objects, albeit not at the greatest resolution straight out of the box. 
