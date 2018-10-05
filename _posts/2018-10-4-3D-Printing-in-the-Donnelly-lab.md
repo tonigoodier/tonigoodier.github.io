@@ -104,5 +104,5 @@ At the moment I'm working to complete [AKSHAY_D21's](https://www.thingiverse.com
 ### Design Projects 
 Dr Van 'T hof and I are working to design .STL models of the WHO Insecticide Susceptibility Bioassay tube systems, to help replace broken parts in the insectaries and keep as many tube kits in operation as possible. This is pushing the limits of my CAD skills, but with the help Dr Van 'T Hof, who has recently figured out thread creation, we should be able to complete this project. I intend to write a separate blog post about this in the near future when 
 
-# Ideas for prints?
-If you an LSTM colleage and have an idea for a print that could help out around the lab/office, feel free to get in touch. 
+# Have An Idea for a Print?
+If you an LSTM colleage and have an idea for a print that could help out around the lab/office, please [get in touch](mailto:sean.tomlinson@lstmed.ac.uk). 
