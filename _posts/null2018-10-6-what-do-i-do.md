@@ -1,3 +1,9 @@
+---
+layout: post
+title: What do I do?
+---
+
+
 Scope
 
 I thought it'd be a good idea to give an overview of my PhD project, and go into a little bit of detail about the background and importance of the work.
