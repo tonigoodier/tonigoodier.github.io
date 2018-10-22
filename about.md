@@ -20,4 +20,4 @@ In addition to my academic projects, I'm a 3D printing (3DP) enthusiast and keen
 
 ### Contact me
 
-[Feel free to message me here](mailto:sean.tomlinson@lstmed.ac.uk)
+[Feel free to message me](mailto:sean.tomlinson@lstmed.ac.uk)
