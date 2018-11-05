@@ -48,6 +48,6 @@ This is where my PhD comes in. My PhD project is focussing on characterising the
 # The Data and the _Anopheles gambiae_ 1000 Genomes Project
 
 > Ag1000G is an international collaboration using whole genome deep sequencing to provide a high-resolution view of genetic variation in natural populations of Anopheles gambiae, the principal vector of Plasmodium falciparum malaria in Africa.
-- [_Anopheles gambiae_ 1000 genomes project](https://www.malariagen.net/projects/ag1000g)
+-- [_Anopheles gambiae_ 1000 genomes project](https://www.malariagen.net/projects/ag1000g)
 
 
