@@ -19,7 +19,7 @@ Great achievements have been made in the global health effort to control malaria
 
 **What is a vector?**
 
-> Vectors are organisms that carry and transmit infectious disease pathogens (things that cause disease). The idea of vector control is that if we can control the vector we can control the disease it transmits.
+Vectors are organisms that carry and transmit infectious disease pathogens (things that cause disease). The idea of vector control is that if we can control the vector we can control the disease it transmits.
 
 **Insert Bhatt fig here**
 
@@ -46,5 +46,9 @@ Fertile hybrids are interesting because they can allow gene flow from one specie
 This is where my PhD comes in. My PhD project is focussing on characterising the introgression events between _An. gambiae_ and _An. arabiensis_ and discussing the impact on global health methods employed to control malaria.
 
 # The Data and the _Anopheles gambiae_ 1000 Genomes Project
+
+> Ag1000G is an international collaboration using whole genome deep sequencing to provide a high-resolution view of genetic variation in natural populations of Anopheles gambiae, the principal vector of Plasmodium falciparum malaria in Africa.
+
+[_Anopheles gambiae_ 1000 genomes project](https://www.malariagen.net/projects/ag1000g)
 
 
