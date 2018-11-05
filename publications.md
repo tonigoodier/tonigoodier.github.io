@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
----
-
 **Implications of insecticide resistance for malaria vector control with long-lasting insecticidal nets: trends in pyrethroid resistance during a WHO-coordinated multi-country prospective study**
 
 Parasites & Vectors 2018/03
