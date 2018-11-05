@@ -4,10 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-This will be a list of my publicaitons
-
-
-
+---
 
 **Implications of insecticide resistance for malaria vector control with long-lasting insecticidal nets: trends in pyrethroid resistance during a WHO-coordinated multi-country prospective study**
 
