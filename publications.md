@@ -14,6 +14,7 @@ This will be a list of my publicaitons
 Parasit Vectors 2018 
 
 [PMID: 30348209](https://www.ncbi.nlm.nih.gov/pubmed/30348209)
+
 [DOI: 10.1186/s13071-018-3101-4](https://doi.org/10.1186/s13071-018-3101-4)
 
 
@@ -22,4 +23,5 @@ Parasit Vectors 2018
 BMC genomics 2018
 
 [PMID: 29587635](https://www.ncbi.nlm.nih.gov/pubmed/29587635)
+
 [DOI: 10.1186/s12864-018-4605-1](https://doi.org/10.1186/s12864-018-4605-1)
