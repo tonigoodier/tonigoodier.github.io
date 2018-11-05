@@ -7,7 +7,9 @@ title: What do I do?
 
 I thought it'd be a good idea to give an overview of my PhD project, and go into a little bit of detail about the background and importance of the work.
 
-Public engagement is crucial part of the scientific process, and so this blog post will be aimed at a broader audience and written in plain English, to be as inclusive and accessible as possible.
+Public engagement is crucial part of the scientific process, and so this blog post will be aimed at a broader audience and written in plain English, to be as inclusive and accessible as possible. 
+
+NB: This can be tricky, so if there's a part that could benefit from rewriting, please let me know.
 
 # Intro
 
