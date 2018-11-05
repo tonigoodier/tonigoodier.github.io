@@ -13,13 +13,15 @@ Public engagement is crucial part of the scientific process, and so this blog po
 
 # Intro
 
-Malaria is a disease, caused by the __Plasmodium__ family of parasites and transmitted by mosquitoes belonging to the Anopheles genus. It causes debilitating symptoms, which include fever, vomiting, headaches, etc. and in serious cases can result in jaundice, seizures and death.
+Malaria is a disease, caused by the _Plasmodium_ family of parasites and transmitted by mosquitoes belonging to the Anopheles genus. It causes debilitating symptoms, which include fever, vomiting, headaches, etc. and in serious cases can result in jaundice, seizures and death.
 
 Great achievements have been made in the global health effort to control malaria, since 2000 ~660 million cases of malaria have been averted, due to vector control methods.
 
-**Insert Bhatt fig here**
+**What is a vector?**
 
 > Vectors are organisms that carry and transmit infectious disease pathogens (things that cause disease). The idea of vector control is that if we can control the vector we can control the disease it transmits.
+
+**Insert Bhatt fig here**
 
 Vector control for malaria relies on reducing the number of mosquitoes and reducing human exposure to mosquitoes. The two classic examples of this are insecticide-treated bed nets and indoor residual spraying.
 
