@@ -17,6 +17,7 @@ Parasit Vectors 2018
 
 [DOI: 10.1186/s13071-018-3101-4](https://doi.org/10.1186/s13071-018-3101-4)
 
+---
 
 **Genome-wide transcriptional analyses in Anopheles mosquitoes reveal an unexpected association between salivary gland gene expression and insecticide resistance.**
 
