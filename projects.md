@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Publication
+permalink: /publications/
 ---
 
-This is a demo page
+This will be a list of my publicaitons
