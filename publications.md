@@ -6,7 +6,7 @@ permalink: /publications/
 
 **Implications of insecticide resistance for malaria vector control with long-lasting insecticidal nets: trends in pyrethroid resistance during a WHO-coordinated multi-country prospective study**
 
-Parasites & Vectors 2018/03
+Parasites & Vectors 2018/10
 
 [PMID: 30348209](https://www.ncbi.nlm.nih.gov/pubmed/30348209)
 
@@ -14,9 +14,9 @@ Parasites & Vectors 2018/03
 
 ---
 
-**Genome-wide transcriptional analyses in Anopheles mosquitoes reveal an unexpected association between salivary gland gene expression and insecticide resistance.**
+**Genome-wide transcriptional analyses in _Anopheles_ mosquitoes reveal an unexpected association between salivary gland gene expression and insecticide resistance.**
 
-BMC Genomics 2018/10
+BMC Genomics 2018/03
 
 [PMID: 29587635](https://www.ncbi.nlm.nih.gov/pubmed/29587635)
 
