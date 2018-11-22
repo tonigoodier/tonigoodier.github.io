@@ -29,8 +29,6 @@ Insecticide-treated bed nets provide a physical barrier while the occupant is sl
 
 Indoor residual spraying involves spraying the interior walls of houses with an insecticide compound. The reasoning being that when a mosquito is seeking a blood meal at night, it will be exposed to a lethal dose when resting on walls and die before biting a human.
 
-**Insert pic of IRS and ITNs**
-
 Despite the great success in reducing its burden, malaria still claims roughly 500,000 deaths per year. This is a great concern for global health and is compounded by resistance to the insecticide compounds used to treat bed nets and spray walls. There is a concern that the failure of public health insecticides will lead an increase in malaria cases.
 
 My work is within the lab of Professor Martin Donnelly, where the key focus is understanding the genetic components of resistance to insecticides. Understanding the genetic landscaoe, evolutionary history and the genetic fitness of resistant mosquitoes helps to inform vector control monitoring, tool development and intervention deployment. 
@@ -54,3 +52,5 @@ I am very fortunate to be working with partners of the Ag1000G projects throught
 
 The data the Ag1000G are releasing as parts of their phase 3 release will form the basis for the analyses throughout my PhD.
 
+
+### This is still a work in progress and should be completed soon. 
