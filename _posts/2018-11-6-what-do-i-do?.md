@@ -32,7 +32,7 @@ Indoor residual spraying involves spraying the interior walls of houses with an 
 
 Despite the great success in reducing its burden, malaria still claims roughly 500,000 deaths per year. This is a great concern for global health and is compounded by resistance to the insecticide compounds used to treat bed nets and spray walls. There is a concern that the failure of public health insecticides will lead an increase in malaria cases.
 
-My work is within the lab of Professor Martin Donnelly, where the key focus is understanding the genetic components of resistance to insecticides. Understanding the genetic landscaoe, evolutionary history and the genetic fitness of resistant mosquitoes helps to inform vector control monitoring, tool development and intervention deployment. 
+My work is within the lab of Professor Martin Donnelly, where the key focus is understanding the genetic components of resistance to insecticides. Understanding the genetic landscape, evolutionary history and the genetic fitness of resistant mosquitoes helps to inform vector control monitoring, tool development and intervention deployment. 
 
 # The Malaria Mosquitoes
 
@@ -46,7 +46,7 @@ This is where my PhD comes in. My PhD project is focussing on characterising the
 
 # The Data and the _Anopheles gambiae_ 1000 Genomes Project
 
-I am very fortunate to be working with partners of the Ag1000G projects throughtout my PhD.
+I am very fortunate to be working with partners of the Ag1000G projects throughout my PhD.
 
 > Ag1000G is an international collaboration using whole genome deep sequencing to provide a high-resolution view of genetic variation in natural populations of Anopheles gambiae, the principal vector of Plasmodium falciparum malaria in Africa.
 -- [_Anopheles gambiae_ 1000 genomes project](https://www.malariagen.net/projects/ag1000g)
