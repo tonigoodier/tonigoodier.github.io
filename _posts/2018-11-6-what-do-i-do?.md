@@ -2,6 +2,7 @@
 layout: post
 title: What do I do?
 ---
+A brief rundown on what I'm up to. 
 
 # Scope
 
