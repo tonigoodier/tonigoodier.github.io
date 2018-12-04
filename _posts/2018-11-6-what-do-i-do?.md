@@ -51,7 +51,4 @@ I am very fortunate to be working with partners of the Ag1000G projects througho
 > Ag1000G is an international collaboration using whole genome deep sequencing to provide a high-resolution view of genetic variation in natural populations of Anopheles gambiae, the principal vector of Plasmodium falciparum malaria in Africa.
 -- [_Anopheles gambiae_ 1000 genomes project](https://www.malariagen.net/projects/ag1000g)
 
-The data the Ag1000G are releasing as parts of their phase 3 release will form the basis for the analyses throughout my PhD.
-
-
 ### This is still a work in progress and should be completed soon. 
