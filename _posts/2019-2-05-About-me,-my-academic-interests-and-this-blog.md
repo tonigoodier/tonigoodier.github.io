@@ -3,6 +3,8 @@ layout: post
 title: About me, my academic interests and this blog!
 ---
 
+An overview of myself, my interests and the plan for this blog.
+
 I am a  25 year old university graduate. I studied for 6 years. I have a first class honours in history and politics, a graduate diploma in law, and have successfully completed the legal practice course. I took part in a number of extra-curricular programmes alongside my studies, some i cared about, others not so much. But that wasn't the point - the point was to make me look better on paper than everyone else. In theory, I did everything right. I worked hard, got my qualifications, and made sure that I entered the professional world with a plethora of certificates behind me. 
 
 I now work 40 hours a week and earn £15,000 a year. 
